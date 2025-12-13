@@ -1,1 +1,2 @@
-# SEM5_LAB_PRACTICALS
+# Artificial Intelligence and Data Science - TE(Sem-5) Lab Assignments 
+
